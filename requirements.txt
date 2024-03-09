@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+unipath
+colorama
+playsound
+json
+datetime
+random
+sys
+os
+threading
+uuid
+names
+traceback

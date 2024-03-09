@@ -1,0 +1,14 @@
+{
+    "email": "",
+    "password": "",
+    "in use": false,
+    "last_used": "2022-01-23 12:26:27.810483",
+    "placed orders": 0,
+    "points": 0,
+    "coupons": {
+        "Dunk Low Adults": false,
+        "Dunk High Adults": false,
+        "Dunk Low Kids": false,
+        "Uncaching coupon": false
+    }
+}
